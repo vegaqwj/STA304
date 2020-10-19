@@ -1,0 +1,116 @@
+---
+title: "What determines the happiness of the Canadians? - a GSS 2017 Analysis"
+author: "Names of your Group Members"
+date: "Oct.19 2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+#Abstract
+
+I used the 2017 GSS data. I am interested in the attribute called feelings_life in the survey data. I performed linear regression on the GSS data to find what variables affect one's feelings_life the most. And we find that wealth may not be that important to our happiness while health, family are more important in one's feelings of life.
+
+
+#Introduction
+
+The 2017 GSS data, conducted from February 2nd to November 30th 2017, is a sample survey with cross- sectional design. The target population includes all non-institutionalized persons 15 years of age and older, living in the 10 provinces of Canada.$^1$ I am interested in what contributes to the happiness of the Canadian people. Normally, we would think one's wealth or health may affect one's happiness. It is interesting to see what the data would tell us.
+
+There is an attribute called feelings_life in the survey data. I see feelings of life as a person's happiness about his/her current life. Therefore I use feelings_life as my measure of a Canadian's happiness. I chose to perform a linear regression using feelings_life as the response variable and some other independent explanatory variables from the data.
+
+
+#Data
+```{r}
+data_gss <- read.csv("gss.csv")
+```
+The data I use is from GSS 2017. I downloaded the data from CHASS and cleaned them in R. The cleaned data has 81 variables. Except from the caseid, the identification variable, the cleaned data still has 80 variables. 
+
+I chose the GSS data because it contains enough demographic and personal data to perform analysis on one's happiness. Both the number of variables in the dataset and the number of respondents are large. Also, all the variables are easy to factor. We can easily apply regression models on these data. 
+
+However, many variables have too many NA values which may bring problems when we are doing the regression.
+
+#Model
+```{r}
+model_gss <- lm(data = data_gss, feelings_life ~ age + total_children + sex + province + marital_status + education + own_rent + living_arrangement + self_rated_health + self_rated_mental_health + religion_has_affiliation + language_home + language_knowledge+ income_respondent)
+```
+
+I chose to perform linear regression here since the response variable, feelings_life, is a scalar variable. Also, because there are more than one dependent variables, I used multiple regression instead of simple linear regression.
+
+Since many variables have many NA values, I chose to first manually exclude those variables with too many NA values. Then I also excluded those variables that are too similar to another variable, and only keep one of them to avoid the collinearity problem. Thus, for the selected model, I chose age, total_children, sex, province, marital_status, education, own_rent, living_arrangement, self_rated_health, self_rated_mental_health, religion_has_affiliation, language_home, language_knowledge and income_respondent as the dependent variables. And feelings_life as the response variable. The mathematical notation is as follow:
+
+$feelingsLife = \beta_0 + \beta_1 age + \beta_2totalChildren + \beta_3sex + \beta_4province + \beta_5maritalStatus + \beta_6education + \beta_7ownRent + \beta_8livingArrangement + \beta_9selfRatedHealth + \beta_{10}selfRatedMentalHealth + \beta_{11}religionHasAffiliation + \beta_{12}anguageHome + \beta_{13}languageKnowledge+ \beta_{14}incomeRSespondent+\epsilon$
+
+where $\beta$ is the coefficient of each variable, $\epsilon$ is the error term of the regression model, $feelings_life$ is the true response where all the other variables are inputed from the sample.
+
+I will use basic lm in R to perform this linear regression. I can not use svyglm since the population size N is unknown. 
+
+
+
+#Results
+```{r}
+summary(model_gss)
+plot(model_gss$residuals~model_gss$fitted.values,main="1.Residual plot")
+
+qqnorm(model_gss$residuals, 
+   ylab="Standardized Residuals", 
+    xlab="Normal Scores", 
+    main="2.Normal Q-Q") 
+qqline(model_gss$residuals)
+```
+
+From the output of the summary, we can see the following results:
+
+1. From the F-test, we have p-value < 2.2e-16 < 0.05, which implies we have strong evidence to reject the null hypothesis and concluded that there must be at least one variable with coefficient 0. This means at least one variable is truly contributed to feelings_life.
+
+2. From individual t-test for each variable, if the p-value is less than 0.05, we have strong evidence to reject the null hypothesis and concluded that this variable is significant and should be included in the model to predict one's happiness. If the p-value is larger than 0.05, we would accept the null hypothesis and conclude that this variable may not be significant ad should not be include in the model of predicting one's happiness. Thus, we have age, total_children, sexMale, province, marital_status, education, living_arrangement, self_rated_health, self_rated_mental_health and language_knowledge should be significant variables with p-value > 0.05.
+
+3. Fro the coefficient of each variable, if it is positive, then there is a positive relationship between the variable and feelings_life, vice versa.
+
+4. Note that for some variables, only certain levels of the variable are significant. We need to include those variables, but keep in mind that only those levels are significant. For other levels, we may not have strong evidence.
+
+However, as we can see from the plot 1 and 2, there may exist problems for this model:
+
+1. Plot 1 is a residual plot where there are certain patterns exist
+
+2. Plot 2 is a normal q-q plot where the qqline is not very straight.
+
+The above plots may imply the data may not satisfy the assumptions of the linear regression.
+
+#Discussion
+
+From the results, we have age, total_children, sexMale, province, marital_status, education, living_arrangement, self_rated_health, self_rated_mental_health and language_knowledge to be the significant variables while own_rent, religion_has_affliation and income_respondent are less important.
+
+In the introduction, I made an assumption that wealt and health should contribute the most to one's happiness. However, from the result, we know that income_respondennt are less important. The income of the respondent is not very important for his/her happiness. Thus, wealth may not play a key role in one's happiness. Similarly, own_rent, which is whether the respondent own the place living or not, is less important. Own_rent is part of wealth, and the above also implies that wealth may not be the key to one's happiness.
+
+religion_has_affliation is whether one has religion or not. The less importance of religion_has_affliation shows that anyone could have hapiness regardless of religion.
+
+For those important variables, I found all of them reasonable. For example, both health and metal health should be important for one's feelings of life. A bad health or mental health can bring pain. 
+
+There are some siginficannt variables worth mentioning. The sexMale has negative coefficient which implies that man may be less happy than woman in Canada. This maybe because the social pressure is more heavy on male than female. Furthermore, we could see that language_knowledgeNeither English nor French is significant and with the coefficient negative. We can learn that people in Canada with no knowledge of English or French are not happy. Canada's official languages are English ad French. People who do not know those languages, but live in Canada may experience difficulties in their lives, and result in unhappiness.
+
+#Weaknesses
+
+As we can see from the plots in the result, the data may not satisfy the assumptions of the linear regression. We need to find a way to improve the model to meet the assumptions.
+
+Also, the model contain many non-significant variables. We need to find a way to clean the variables for a better model. We could perform model selection, and drop non-significant variables from the linear regression. We could then use AIC/BIC to select the best model for predicting one's happiness.
+
+Lastly, those variables in the data may not be enough to cover all that influence one's happiness. Many other variables could be considered.
+
+#Next Steps
+
+Based on the weakness, we first need to make adjustments or improvements accordingly.
+
+Then, we could do a follow-up survey after we suggesting people what we think is important for a Canadian's happiness to see whether there is truly an improvement in people's happiness.
+
+Also, we need to keep adding more useful variables to the study to better understand happiness.
+
+
+#References
+
+Bibliography:
+
+1. Statistics Canada. "General Social Survey, Cycle 31: Families, Public Use Microdata File Documentation and User’s Guide" 2020.
+
+
