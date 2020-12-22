@@ -1,0 +1,38 @@
+---
+title: "Estimating the probability of Workplace Harassment and Violence in Canada using Multilevel Regression and Post-Stratification"
+author: "Yueyang Ji"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+abstract:
+  | **Keywords:** logistic regression; post-stratification; forecast
+output:
+  bookdown::pdf_document2:
+---
+
+All the R code are provided as below:
+```{r setup, include=FALSE}
+library(tidyverse)
+survey_data <- read.csv("Survey_data.csv",check.names = F)
+survey_data <- labelled::to_factor(survey_data)
+model <- glm(Harassment ~ Gender + Age + Education + EmploymentStatus + Income, 
+            data=survey_data, family= "binomial")
+summary(model)
+census_data <- read.csv("census_data.csv")
+census_data <- labelled::to_factor(census_data)
+census_data <- 
+  census_data %>%
+  count(Gender,Age,Education,EmploymentStatus,Income) %>%
+  group_by(Gender,Age,Education,EmploymentStatus,Income) 
+# Here I will perform the post-stratification calculation
+census_data$logodds_estimate <-
+  model %>%
+  predict(newdata = census_data,type = "response")
+
+census_data$estimate <-
+  exp(census_data$logodds_estimate)/(1+exp(census_data$logodds_estimate))
+
+alp_predict_prop <- census_data$estimate*census_data$n
+alp_predict = sum(alp_predict_prop)/sum(census_data$n)
+alp_predict
+
+broom::tidy(model)
+```

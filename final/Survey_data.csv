@@ -1,0 +1,830 @@
+﻿Status,Gender,Age,Education,EmploymentStatus,Income,Harassment
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,Other,"$100,000 to just under $150,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"$60,000 to just under $80,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,Bachelor's degree,Other,"$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Bachelor's degree,"Not in the workforce? (full-time homemaker, not employed, not looking for work)","$60,000 to just under $80,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,65 or older,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma",Retired?,"$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,I do not wish to respond,Prefer not to answer,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,I do not wish to respond,Prefer not to answer,I do not wish to respond,Prefer not to answer,I do not wish to respond,0
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,1
+Complete,Male,65 or older,Bachelor's degree,Retired?,"$60,000 to just under $80,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Unemployed, but looking for work?","$150,000 and above",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,Other,"$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,Self-employed?,"$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,Self-employed?,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma",A student attending school full-time?,"$150,000 and above",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working part-time, that is, less than 35 hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,55 to 64,Bachelor's degree,Self-employed?,"$40,000 to just under $60,000",0
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"Under $20,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,Prefer not to answer,University certificate or diploma below bachelor's level,Other,"Under $20,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Unemployed, but looking for work?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,18 to 34,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,Self-employed?,"$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,I do not wish to respond,65 or older,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,18 to 34,Registered Apprenticeship or other trades certificate or diploma,"Working part-time, that is, less than 35 hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,65 or older,I do not wish to respond,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma",Other,"$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,Self-employed?,"$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,I do not wish to respond,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,65 or older,University certificate or diploma below bachelor's level,"Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","Under $20,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,I do not wish to respond,Prefer not to answer,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,Other,"$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,A student attending school full-time?,I do not wish to respond,1
+Complete,Female,50 to 54,Bachelor's degree,Retired?,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",0
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","Under $20,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,Self-employed?,"$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,55 to 64,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,Prefer not to answer,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Bachelor's degree,Self-employed?,"$100,000 to just under $150,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma",Self-employed?,I do not wish to respond,1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,18 to 34,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,65 or older,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Non-binary,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,,"$40,000 to just under $60,000",0
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma",Retired?,"$100,000 to just under $150,000",0
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,50 to 54,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,I do not wish to respond,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Non-binary,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Transgender,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,A student attending school full-time?,"Under $20,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,I do not wish to respond,"Not in the workforce? (full-time homemaker, not employed, not looking for work)",I do not wish to respond,1
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Registered Apprenticeship or other trades certificate or diploma,"Unemployed, but looking for work?","Under $20,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,Self-employed?,"$150,000 and above",1
+Complete,I do not wish to respond,Prefer not to answer,I do not wish to respond,Prefer not to answer,"$100,000 to just under $150,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma",A student attending school full-time?,"$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,A student attending school full-time?,"Under $20,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,A student attending school full-time?,"$40,000 to just under $60,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma",Other,"$20,000 to just under $40,000",1
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,1
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"$20,000 to just under $40,000",0
+Complete,Female,18 to 34,Bachelor's degree,,"$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma",Other,"$40,000 to just under $60,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma",Other,"$20,000 to just under $40,000",1
+Complete,Male,65 or older,"College, CEGEP or other non-university certificate or diploma",Retired?,"$60,000 to just under $80,000",1
+Complete,Female,55 to 64,Bachelor's degree,Self-employed?,"$100,000 to just under $150,000",1
+Complete,Male,55 to 64,Registered Apprenticeship or other trades certificate or diploma,Other,"$40,000 to just under $60,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,65 or older,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",0
+Complete,Male,18 to 34,High School diploma or equivalent,"Working part-time, that is, less than 35 hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,Self-employed?,I do not wish to respond,1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","Under $20,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",0
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,Prefer not to answer,"$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Unemployed, but looking for work?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,Self-employed?,"$20,000 to just under $40,000",1
+Complete,Female,65 or older,Post graduate degree above bachelor's level,Retired?,"$40,000 to just under $60,000",1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,18 to 34,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Unemployed, but looking for work?","$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Transgender,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,"Unemployed, but looking for work?","Under $20,000",1
+Complete,Female,35 to 49,I do not wish to respond,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,65 or older,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Unemployed, but looking for work?","Under $20,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Unemployed, but looking for work?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","Under $20,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Unemployed, but looking for work?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Non-binary,18 to 34,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,High School diploma or equivalent,A student attending school full-time?,I do not wish to respond,1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Unemployed, but looking for work?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma",Retired?,"$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,Prefer not to answer,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Bachelor's degree,,"$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma",Other,"$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,I do not wish to respond,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Unemployed, but looking for work?","Under $20,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Not in the workforce? (full-time homemaker, not employed, not looking for work)","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma",Other,"$100,000 to just under $150,000",1
+Complete,Female,65 or older,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,Retired?,"$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,I do not wish to respond,Prefer not to answer,I do not wish to respond,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,65 or older,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,I do not wish to respond,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",0
+Complete,I do not wish to respond,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,65 or older,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,I do not wish to respond,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Unemployed, but looking for work?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,"Working part-time, that is, less than 35 hours per week?","Under $20,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,Retired?,"$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,Prefer not to answer,"$40,000 to just under $60,000",1
+Complete,I do not wish to respond,55 to 64,Post graduate degree above bachelor's level,Prefer not to answer,"$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,A student attending school full-time?,"$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,,"$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Registered Apprenticeship or other trades certificate or diploma,Retired?,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,A student attending school full-time?,"$20,000 to just under $40,000",0
+Complete,Male,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","Under $20,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,18 to 34,High School diploma or equivalent,"Unemployed, but looking for work?","Under $20,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,Bachelor's degree,Self-employed?,"$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,University certificate or diploma below bachelor's level,,"$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,Self-employed?,I do not wish to respond,1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,Prefer not to answer,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,65 or older,"College, CEGEP or other non-university certificate or diploma",Retired?,"$40,000 to just under $60,000",1
+Complete,Female,50 to 54,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,I do not wish to respond,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Male,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",0
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,Retired?,I do not wish to respond,1
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,Retired?,"$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,Other,I do not wish to respond,1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,High School diploma or equivalent,,"$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,Prefer not to answer,"$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Not in the workforce? (full-time homemaker, not employed, not looking for work)","$150,000 and above",0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma",Retired?,"$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,35 to 49,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,I do not wish to respond,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,65 or older,"College, CEGEP or other non-university certificate or diploma",Retired?,I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,I do not wish to respond,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,Other,"$150,000 and above",1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Male,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",,1
+Complete,Female,18 to 34,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,55 to 64,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,High School diploma or equivalent,Retired?,"$40,000 to just under $60,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,35 to 49,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$150,000 and above",1
+Complete,Male,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Non-binary,18 to 34,High School diploma or equivalent,"Unemployed, but looking for work?","Under $20,000",1
+Complete,Female,50 to 54,Bachelor's degree,"Unemployed, but looking for work?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,50 to 54,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,50 to 54,I do not wish to respond,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Male,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,55 to 64,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$100,000 to just under $150,000",1
+Complete,Female,18 to 34,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,I do not wish to respond,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Transgender,55 to 64,"College, CEGEP or other non-university certificate or diploma",Other,"$20,000 to just under $40,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",0
+Complete,Female,50 to 54,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,University certificate or diploma below bachelor's level,Retired?,"$20,000 to just under $40,000",1
+Complete,Female,65 or older,High School diploma or equivalent,"Working part-time, that is, less than 35 hours per week?","$40,000 to just under $60,000",1
+Complete,Female,Prefer not to answer,I do not wish to respond,"Working part-time, that is, less than 35 hours per week?",I do not wish to respond,0
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?",I do not wish to respond,0
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",1
+Complete,Female,18 to 34,Bachelor's degree,"Working part-time, that is, less than 35 hours per week?","Under $20,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Male,55 to 64,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,18 to 34,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?",I do not wish to respond,1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Female,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,50 to 54,High School diploma or equivalent,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Female,35 to 49,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",0
+Complete,I do not wish to respond,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Male,35 to 49,University certificate or diploma below bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,35 to 49,Post graduate degree above bachelor's level,"Working full-time, that is, 35 or more hours per week?","$150,000 and above",0
+Complete,Female,18 to 34,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,55 to 64,Registered Apprenticeship or other trades certificate or diploma,"Working full-time, that is, 35 or more hours per week?","$40,000 to just under $60,000",1
+Complete,Female,35 to 49,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$150,000 and above",1
+Complete,Female,18 to 34,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$80,000 to just under $100,000",1
+Complete,Female,55 to 64,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$20,000 to just under $40,000",1
+Complete,Male,18 to 34,High School diploma or equivalent,"Working part-time, that is, less than 35 hours per week?","$60,000 to just under $80,000",0
+Complete,Female,55 to 64,Bachelor's degree,"Working full-time, that is, 35 or more hours per week?","$60,000 to just under $80,000",1
+Complete,Male,50 to 54,"College, CEGEP or other non-university certificate or diploma","Working full-time, that is, 35 or more hours per week?","$100,000 to just under $150,000",1
